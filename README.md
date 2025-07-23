@@ -1,0 +1,1 @@
+# Mined-Hackathon-GenAI-project-PPT-and-Graphical-abstract-generator
